@@ -8,6 +8,6 @@
   - half duplex:
     - bidirecional
     - os dois dispositivos podem transmitir e receber, mas nao simultaneamente
-  - full duplex
+  - full duplex ou simplesmente duplex
     - bidirecional
     - os dois dispositivos podem transmitir e receber, simultaneamente
