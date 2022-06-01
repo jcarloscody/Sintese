@@ -2,7 +2,7 @@
 
 - `Comunicação de dados`: troca de dados entre dois dispositivos conectados por algum meio de transmissão.
 - **Fluxo de dados:** a direcao que os dados irão seguir.
-  - simplex: 
+  - simplex:
     - unidirecional
     - apenas um dos dispositivos pode transmitir
   - half duplex:
