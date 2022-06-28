@@ -15,4 +15,19 @@
 - Polimorfismo: é a habilidade de rastrear a classe real de um objeto e chamar sua implementacao mesmo quando seu tipo real é desconhecido no contexto.
 
 
+## Relações entre Objetos
+
+- Dependência: Existe uma dependência entre duas classes se
+algumas mudanças na definição de uma das classes pode resultar em modificações em outra classe.
+  - é o mais básico e o mais fraco tipo de relações entre classes.
+  - Você pode tornar a dependência
+mais fraca se você fazer seu código ser dependente de interfaces ou classes abstratas ao invés de classes concretas.
+- Associação: um relacionamento no qual um objeto usa ou
+interage com outro.
+  - um tipo especializado de dependência.
+  - Em geral, você usa uma associação para representar algo como
+um campo em uma classe
+
+
+
 pag 23
