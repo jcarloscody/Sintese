@@ -47,6 +47,7 @@ B. Classe A depende de B.
 
 
 # Introdução Aos Padrões
+- O que é um padrão:
+  - 
 ## O que é um padrão de projeto?
 
-pag 30
